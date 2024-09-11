@@ -2,28 +2,10 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="3; url=https://api.whatsapp.com/send?phone=573028618806&text=Hola,%20me%20gustar%C3%ADa%20solicitar%20una%20cotizaci%C3%B3n%20para%20un%20stand.">
-    <title>Redirigiendo a WhatsApp...</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f4f4f4;
-        }
-        h1 {
-            text-align: center;
-            font-size: 24px;
-            color: #333;
-        }
-    </style>
+    <meta http-equiv="refresh" content="0; url=https://wa.me/573028618806?text=Cotización%20del%20Stand:%0A-%20Ancho:%20X%20metros%0A-%20Alto:%20X%20metros%0A-%20Material:%20Madera%0A-%20Luces:%20Luces%20LED%0A-%20Pantalla:%2050%20pulgadas%0A-%20Gráfico:%20X%20metros%0A-%20Piso:%20Madera" />
+    <title>Redireccionando...</title>
 </head>
 <body>
-    <h1>Redirigiendo a WhatsApp...</h1>
-    <p>Si no eres redirigido automáticamente, <a href="https://api.whatsapp.com/send?phone=573028618806&text=Hola,%20me%20gustar%C3%ADa%20solicitar%20una%20cotizaci%C3%B3n%20para%20un%20stand.">haz clic aquí</a>.</p>
+    <p>Redireccionando a WhatsApp...</p>
 </body>
 </html>
